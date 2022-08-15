@@ -1,0 +1,14 @@
+.Navigation{
+     display: block;
+     width: 100%;
+}
+.navigation_wrapper{
+     width: 1024px;
+     padding: 8px 22px;
+     margin: 0 auto;
+}
+.direction_column{
+     flex-basis: 20%;
+     max-width: 20%;
+     height: 414px;
+}

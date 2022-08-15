@@ -1,0 +1,31 @@
+.LinkBtns{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+}
+.read_more{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: #06c;
+     font-size: 21px;
+     line-height: 1.381;
+     font-weight: 400;
+     letter-spacing: .011em;
+     font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+     margin-top: 0.65em;
+     margin-left: 32px;
+}
+.icon_next{
+     font-size: 20px;
+     color: #06c;
+     position: relative;
+     z-index: 11;
+     font-weight: 200;
+}
+/* .read_more:hover{
+     text-decoration: underline;
+} */
+

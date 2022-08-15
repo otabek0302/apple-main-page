@@ -1,0 +1,33 @@
+.text_content{
+     width: 100%;
+     height: 100%;
+     text-align: start;
+     width: 1024px;
+     padding: 8px 22px;
+     margin: 0 auto;
+}
+.foot_note_list{
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     justify-content: space-between;
+     border-bottom: 1px solid #d2d2d7;
+     padding-bottom: 20px;
+}
+.footer_note_item{
+     padding-bottom: 9.6px;
+     margin: 0;
+     list-style: none;
+     font-size: 1em;
+     font-weight: 300;
+     font-family: inherit;
+     line-height: 1.33337;
+     pointer-events: auto;
+     letter-spacing: -.01em;
+     color: #6e6e73;
+     text-align: justify;
+     
+}
+.footer_note_item a{
+     color: #424245;
+}

@@ -1,0 +1,14 @@
+.header{
+     width: 100%;
+     background-color: #000000cc;
+     position: fixed;
+     z-index: 9999;
+     height: 48px;
+     max-height: 44px;
+     backdrop-filter: saturate(180%) blur(10px);
+}
+.nav{
+     width: 1024px;
+     max-height: 48px;
+     margin: 0 auto;
+}
